@@ -1,0 +1,28 @@
+# data/flats.yml
+vcprando:
+  name: "Val's home"
+  description: "Charming room in Montmartre"
+  picture: "https://www.telegraph.co.uk/content/dam/Travel/hotels/europe/france/paris/eiffel-tower-paris-p.jpg"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 4
+  maximum_guess: 2
+allanmaron:
+  name: "Allan' home"
+  description: Small flat in Tokyo
+  picture: "https://cache-graphicslib.viator.com/graphicslib/thumbs210x118/2142/SITours/nikko-national-park-day-trip-from-tokyo-in-tokyo-165429.jpg"
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+  maximum_guess: 3
+daniavelino:
+  name: Dani's home
+  description: Nice flat in Piccadilly
+  picture: "https://nespy2aub3if2yow3fcm0t5y-wpengine.netdna-ssl.com/files/2013/11/conheça-londres-635x359.jpg"
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
+  maximum_guess: 10
