@@ -1,0 +1,17 @@
+- name: 'Waikiki'
+  subtitle: 'Very cool beach'
+  picture: 'http://gotravelaz.com/wp-content/uploads/images/North_Shore.jpg'
+
+- name: 'North Shore'
+  subtitle: 'Paradise'
+  picture: 'https://kitt.lewagon.com/placeholder/cities/northshore'
+
+- name: 'Molokai'
+  subtitle: 'Peaceful place'
+  picture: 'https://kitt.lewagon.com/placeholder/cities/molokai'
+
+- name: 'Kauai'
+  subtitle: 'Green Island'
+  picture: 'https://kitt.lewagon.com/placeholder/cities/kauai'
+
+
